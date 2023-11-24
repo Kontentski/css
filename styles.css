@@ -50,6 +50,17 @@ a:hover {
   }
 }
 
+
+@media screen and (max-width: 700px) {
+  .info {
+    text-align: center;
+    display: block;
+  }
+}
+
+
+
+
 .info-style{
   margin-left: 20px;
 }
